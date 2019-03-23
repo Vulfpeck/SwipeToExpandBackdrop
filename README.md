@@ -3,7 +3,7 @@
 Example app to demonstrate the ability to expand or contract backdrop using a swipe gesture 
 
 ## Demo 
-![Alt Text](https://raw.githubusercontent.com/Vulfpeck/SwipeToExpandBackdrop/63e0665b865b3e4f6cf0f774be187357953c4d2b/demo.gif)
+<img src="https://github.com/Vulfpeck/SwipeToExpandBackdrop/blob/master/demo.gif?raw=true" width="200" height="355.5" />
 
 ## Installing
 - Clone this repo
