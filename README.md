@@ -1,6 +1,13 @@
-# scaffold_test
+# Swipe to Expand backdrop example
 
-A new Flutter application.
+Example app to demonstrate the ability to expand or contract backdrop using a swipe gesture 
+
+## Demo 
+![Alt Text](https://raw.githubusercontent.com/Vulfpeck/SwipeToExpandBackdrop/63e0665b865b3e4f6cf0f774be187357953c4d2b/demo.gif)
+
+## Installing
+- Clone this repo
+- Use "flutter run" to run the app
 
 ## Getting Started
 
